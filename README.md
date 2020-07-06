@@ -26,3 +26,9 @@ Tracking my 100 days of code journey.
 **Thoughts:** I struggled with getting the right css for my Forecast tab page, but eventually through trial and error with Flexbox properties, I got it to look the way I wanted it.
 
 **Link to work:** [MyWeatherApp](https://github.com/lisajacobson/MyWeatherApp)
+
+### Day 1: July 5, 2020
+
+**Today's Progress**: Did some crowdsourcing on Twitter to get more ideas of apps to build; learned some NodeJS on Udemy; and started a bookmarking app at my friend's suggestion.
+
+**Thoughts:** Node seems really great and I'm excited to learn more and be able to start creating fullstack apps with JS.
