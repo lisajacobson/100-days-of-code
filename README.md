@@ -52,5 +52,5 @@ Tracking my 100 days of code journey.
 
 **Thoughts:** My first foray into Node was a simple command line app that was more for learning than for the resulting app itself. Through the exercise, I learned some more JS, as well. I got more practice using the filter and find methods on arrays, and learned that find is more efficient because it stops at every point where your function *finds* a match (or non-match, depending on how your code is written).
 
-**Work:** screen cast coming soon!
+**Work:** screen cast coming soon but here's the repo: [NodeJS command line notes app](https://github.com/lisajacobson/notes-cmd-app)
 
