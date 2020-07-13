@@ -47,10 +47,16 @@ Tracking my 100 days of code journey.
 
 *due to work work, I wasn't able to make the time the past few days, so I am counting the days starting with when I was able to pick things back up*
 
-### Day 4
+### Day 4: July 11, 2020
 **Today's Progress**: I wrapped up the notes command line app I was building using Node JS. It has 4 commands that allow you to add a note, read a single note, list all notes (titles and contents), and remove a particular note. I used the chalk module to play with colors and highlight the outputs, which made it more aesthetically pleasing to read what's logged to the console as a result of each command.
 
 **Thoughts:** My first foray into Node was a simple command line app that was more for learning than for the resulting app itself. Through the exercise, I learned some more JS, as well. I got more practice using the filter and find methods on arrays, and learned that find is more efficient because it stops at every point where your function *finds* a match (or non-match, depending on how your code is written).
 
 **Work:** screen cast coming soon but here's the repo: [NodeJS command line notes app](https://github.com/lisajacobson/notes-cmd-app)
 
+### Day 5: July 12, 2020
+**Today's Progress**: I went through a couple of NodeJS video courses and coded along in VS Code. I learned about OS, Path, and Events modules, as well as how to use EventEmitter and an event listener to listen for the event and do something after the event. Also learned about the HTTP method, as well as how to structure CRUD in an API built with the Express library.
+
+**Thoughts:** I can see already how Express lets you write APIs on top of Node in a succinct way, much more than if you simply had if statements or a switch and cases for each call. Express lets you write your API routes very explicitly, and I can see how useful this will be when I start building my own APIs to connect with front ends.
+
+**Work:** Some coding in my IDE but nothing too exciting for today.
