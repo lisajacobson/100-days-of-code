@@ -60,3 +60,8 @@ Tracking my 100 days of code journey.
 **Thoughts:** I can see already how Express lets you write APIs on top of Node in a succinct way, much more than if you simply had if statements or a switch and cases for each call. Express lets you write your API routes very explicitly, and I can see how useful this will be when I start building my own APIs to connect with front ends.
 
 **Work:** Some coding in my IDE but nothing too exciting for today.
+
+### Day 6: July 14, 2020
+**Today's Progress**: I walked through some written tutorials to learn how to set up a MERN app. That's MongoDB/Mongoose, Express, React, Node, and scoped out my app. I also creted an entity relational diagram for the app that I'm calling markit. I'll eventually post the ERD in the readme once I create it for the rep.
+
+**Work**: [markit app](https://github.com/lisajacobson/markit)
