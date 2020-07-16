@@ -65,3 +65,11 @@ Tracking my 100 days of code journey.
 **Today's Progress**: I walked through some written tutorials to learn how to set up a MERN app. That's MongoDB/Mongoose, Express, React, Node, and scoped out my app. I also creted an entity relational diagram for the app that I'm calling markit. I'll eventually post the ERD in the readme once I create it for the rep.
 
 **Work**: [markit app](https://github.com/lisajacobson/markit)
+
+### Day 7: July 15, 2020
+**Today's Progress**: Due to an upcoming project at work for which I need to learn Angular, I started to learn the framework by walking through and coding along with the sample project on the [official Angular website](https://angular.io/start). I learned about template syntax: ngIf and ngFor, interpolation {{ }}, property binding [ ], and event binding ( ). I learned how to work with and set up new routes. I'm also getting used to working with the MVC structure, similar to how Ruby on Rails is set up, which was the first MVC framework I learned.
+
+**Thoughts:** There's a lot of what I'd call overhead, many files that are required for a single component in Angular, including a typescript file for the actual component business logic, a css file for styles, and an html file for markup. It seems strange - after working with hooks and functional/pure components in React - to have class-based components everywhere, no matter what your component is in charge of doing. Looking forward to learning more about how to build apps using Angular including how to use and manipulate data in Angular. 
+
+**Work:** Below is one component from my coding along, but note that I ran into what seems like, based on a cursory google search, a very common error: unless you import `core-js` into your `polyfills.js` file, there's an issue with the import statements of two components in your `app.module.ts` whose solution is not apparent. But after I added the package to the pollyfills file, the StackBlitz browser tab prompts you to install it, which fails repeatedly. I plan to continue the tutorial using my IDE and running it in the browser, which is what many have suggested online. 
+![one component of my code](https://user-images.githubusercontent.com/7946801/87680452-748b9200-c74b-11ea-9074-1c7df07534b5.png)
