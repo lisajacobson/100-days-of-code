@@ -79,4 +79,4 @@ Tracking my 100 days of code journey.
 
 **Thoughts:** see above ^ because I combined progress and thoughts today. 
 
-**Work:** Sadly I cannot show any visuals from my efforts because this is for work and the system is classified.
+**Work:** Sadly I cannot show any visuals from my efforts because this is for work and is proprietary.
